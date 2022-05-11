@@ -223,60 +223,16 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2308.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2309.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/36400370-d114-11ec-8f25-9327243c1142/3206799/561823455.jpg" group-title="BDIX_MIXED", T Sports(2)
 http://103.167.190.250/hls/t-sports.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED", GAZI_TV
+http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Gazi TV(2)
 http://103.167.190.250/hls/Gazi-TV.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Gazi TV(amrbd)
-http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", ATN Bangla(amrbd)
-http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Somoy TV
 http://103.55.144.46/hls/somoy.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Somoy TV(amrbd)
-http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Ekahtor TV(amrbd)
-http://103.136.200.246:8082/Ekattor-tv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", ATN News(amrbd)
-http://103.136.200.246:8082/Atn-News/index.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Independent TV
 http://103.55.144.46/hls/indepen.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Independent TV(amrbd)
-http://103.136.200.246:8082/Independent-Tv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Channel24(amrbd)
-http://103.136.200.246:8082/Channel24/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", News24(amrbd)
-http://103.136.200.246:8082/News24bd/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", DBC News(amrbd)
-http://103.136.200.246:8082/DBC-NEWS/index.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Channel I
 http://103.55.144.46/hls/channeli.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Channel I(amrbd)
-http://103.136.200.246:8082/Channel-i/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Ekushay TV(amrbd)
-http://103.136.200.246:8082/Ekushey-TV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", NTV(amrbd)
-http://103.136.200.246:8082/Ntv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", RTV(amrbd)
-http://103.136.200.246:8082/RTV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", SATV(amrbd)
-http://103.136.200.246:8082/SATV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Mohona TV(amrbd)
-http://103.136.200.246:8082/MohonaTV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", My TV(amrbd)
-http://103.136.200.246:8082/MyTV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Anando TV(amrbd)
-http://103.136.200.246:8082/anandotv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Bangla Vision(amrbd)
-http://103.136.200.246:8082/BanglaVision/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Nagorik TV(amrbd)
-http://103.136.200.246:8082/Nagorik-TV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Bijoy TV(amrbd)
-http://103.136.200.246:8082/BijoyTv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Boishakhi TV(amrbd)
-http://103.136.200.246:8082/Boishakhi/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Nexus TV HD
-http://103.55.144.46/hls/nexus.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", Gaan Bangla(amrbd)
-http://103.136.200.246:8082/GaanBangla/index.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Sony Aath
 http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Sony Aath(amrbd)
@@ -545,5 +501,49 @@ http://208.86.19.13:81/517.stream/index.m3u8
 http://208.86.19.13:81/518.stream/index.m3u8
 #EXTINF: -1 tvg-chno="1" group-title="BDIX_BANGLA", T_SPORTS_HD
 http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF: -1 group-title="BDIX_BANGLA", GAZI_TV
-http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Gazi TV(amrbd)
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", ATN Bangla(amrbd)
+http://103.136.200.246:8082/ATN-Bangla/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Somoy TV(amrbd)
+http://103.136.200.246:8082/Somoy-TV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Ekahtor TV(amrbd)
+http://103.136.200.246:8082/Ekattor-tv/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", ATN News(amrbd)
+http://103.136.200.246:8082/Atn-News/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Independent TV(amrbd)
+http://103.136.200.246:8082/Independent-Tv/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Channel24(amrbd)
+http://103.136.200.246:8082/Channel24/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", News24(amrbd)
+http://103.136.200.246:8082/News24bd/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", DBC News(amrbd)
+http://103.136.200.246:8082/DBC-NEWS/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Channel I(amrbd)
+http://103.136.200.246:8082/Channel-i/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Ekushay TV(amrbd)
+http://103.136.200.246:8082/Ekushey-TV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", NTV(amrbd)
+http://103.136.200.246:8082/Ntv/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", RTV(amrbd)
+http://103.136.200.246:8082/RTV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", SATV(amrbd)
+http://103.136.200.246:8082/SATV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Mohona TV(amrbd)
+http://103.136.200.246:8082/MohonaTV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", My TV(amrbd)
+http://103.136.200.246:8082/MyTV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Anando TV(amrbd)
+http://103.136.200.246:8082/anandotv/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Bangla Vision(amrbd)
+http://103.136.200.246:8082/BanglaVision/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Nagorik TV(amrbd)
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Bijoy TV(amrbd)
+http://103.136.200.246:8082/BijoyTv/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Boishakhi TV(amrbd)
+http://103.136.200.246:8082/Boishakhi/index.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Nexus TV HD
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF: -1 group-title="BDIX_BANGLA", Gaan Bangla(amrbd)
+http://103.136.200.246:8082/GaanBangla/index.m3u8
