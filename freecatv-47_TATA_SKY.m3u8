@@ -221,7 +221,7 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1368.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2308.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DKVLQ7m.png" group-title="Music", MTV
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2309.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED", T Sports(2)
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/36400370-d114-11ec-8f25-9327243c1142/3206799/561823455.jpg" group-title="BDIX_MIXED", T Sports(2)
 http://103.167.190.250/hls/t-sports.m3u8
 #EXTINF: -1 group-title="BDIX_MIXED", Gazi TV(2)
 http://103.167.190.250/hls/Gazi-TV.m3u8
